@@ -110,12 +110,12 @@ MyFavorite = ['cat', 'wolf', 'ostrich']
 #   x y z - для координат
 
 # никогда не используйте в названиях переменных одиночные l, I, O  !
-i = 34
-j = 43
-if i > j:
+x = 34
+y = 43
+if x > y:
     print()
-k = 9
-if k > 0:
+z = 9
+if z > 0:
     print()
 
 # lowercase (слово в нижнем регистре)
